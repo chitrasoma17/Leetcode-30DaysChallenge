@@ -1,3 +1,6 @@
+/* Signed by : Chitrasoma Singh
+*/
+
 class Solution {
     public int singleNumber(int[] nums) {
         int x = 0 ;

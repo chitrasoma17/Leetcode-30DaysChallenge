@@ -1,3 +1,6 @@
+/* Signed by : Chitrasoma Singh
+*/
+
 class Solution {
     public String stringShift(String s, int[][] shift) {
         int n = s.length();
